@@ -17,7 +17,7 @@ Published researcher · Hackathon finalist · Building at the intersection of ML
 ## Recognition
 - 🏆 Anvil 2026 × Scaler — Finalist / 3,200
 - 🏆 Meta AI × HuggingFace OpenEnv — Finalist / 32,000+
-- 📄 ICCI 2026 Published · CGPA 8.97
+- 📄 ICCI 2026 Published · 
 
 ## Stack
 Rust · Java · Python · PyTorch · Kafka · Docker · GRPO/RL · QLoRA · XGBoost · ClickHouse
