@@ -1,6 +1,5 @@
 # Jitraj Esh — Fnc-Jit
 
-First-year BCA (Cybersecurity) student at Kristu Jayanti University, Bengaluru.
 Published researcher · Hackathon finalist · Building at the intersection of ML research and systems.
 
 ## Research
