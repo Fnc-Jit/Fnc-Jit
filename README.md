@@ -14,7 +14,7 @@ Published researcher · Hackathon finalist · Building at the intersection of ML
 - **[Malware-Threat-Scoring-Engine](https://github.com/Fnc-Jit/Malware-Threat-Scoring-Engine)** — 0–100 composite scorer · SHAP interpretability · 100% accuracy on 200K held-out samples
 
 ## Recognition
-- 🏆 Anvil 2026 × Scaler — Top 20 / 3,200
+- 🏆 Anvil 2026 × Scaler — Finalist / 3,200
 - 🏆 Meta AI × HuggingFace OpenEnv — Finalist / 32,000+
 - 📄 ICCI 2026 Published
 
